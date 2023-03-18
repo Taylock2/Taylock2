@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @Taylock2
-- 👀 I’m interested in games modding/programming in my spare time
-- 🌱 I’m currently exploring the BF Portal rules editor
+- 👋 Hi, I’m @Taylock
 - 📫 Discord Taylock#6355
